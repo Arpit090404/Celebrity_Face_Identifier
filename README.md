@@ -1,5 +1,4 @@
 # Celebrity_Face_Identifier
-# Celebrity Face Identifier
 
 ## About the Project
 
